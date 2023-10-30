@@ -67,7 +67,7 @@ The process of creating user accounts can be accomplished manually or via the ut
 <img src="https://i.imgur.com/Xn5tQU2.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-After creating the users, Client-1 can now be signed in as one of the new users that were created from the PowerShell script. Pick a name and simply sign in to the client with the context of the domain. In my case, it is ernestotest.com\bon.rovej.
+Following the successful creation of user accounts, the next step is to sign in to "Client-1" using one of the newly generated user profiles, which were created using the PowerShell script. 
 </p>
 <br />
 
