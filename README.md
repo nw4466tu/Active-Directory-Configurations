@@ -3,7 +3,7 @@
 </p>
 
 <h1>Active Directory Configurations in Azure</h1>
-This lab serves as a continuation of the previous one, in which I installed Active Directory and established a domain controller.  <br />
+This lab serves as a continuation of the previous one, in which I installed Active Directory and established a domain controller. In this follow-up, I will proceed with configuring Active Directory, enabling a client to join the domain, and creating user accounts.  <br />
 
 <h2>Environments and Technologies Used</h2>
 
