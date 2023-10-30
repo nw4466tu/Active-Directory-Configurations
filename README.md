@@ -32,7 +32,7 @@ Now that Active Directory is installed on the domain controller VM, it is time t
 <img src="https://i.imgur.com/X6UGnsf.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-To facilitate the client's integration into the domain, it is important to configure the DNS settings initially. 
+To facilitate the client's integration into the domain, it is important to configure the DNS settings initially. This involves directing the DNS server to the domain controller's private IP address. 
 </p>
 <br />
 
